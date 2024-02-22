@@ -1,0 +1,1 @@
+C:\Users\Bolt\source\repos\TrainingApp\TrainingApp.csproj;x64
